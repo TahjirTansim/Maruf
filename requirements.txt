@@ -1,0 +1,7 @@
+telethon
+curl_cffi
+aiohttp
+aiofiles
+requests
+urllib3
+python-dotenv
