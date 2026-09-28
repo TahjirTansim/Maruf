@@ -1,0 +1,29 @@
+# secrets
+.env
+.env.*
+!.env.example
+
+# telethon session
+*.session
+*.session-journal
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+
+# bot data (private — keep out of the repo)
+sites.txt
+proxy.txt
+premium.txt
+admin.json
+user_access.json
+user_proxies.json
+user_pool.json
+user_stats.json
+user_prefs.json
+card_logs.json
+sites_meta.json
+working_proxies.txt
+keys.json
+mandatory_channels.json
